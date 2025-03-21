@@ -130,3 +130,24 @@
 [submodule "112201020-CS3140"]
 	path = 112201020-CS3140
 	url = git@github.com:alonot/112201020-CS3140.git
+[submodule "112201041-CS3140"]
+	path = 112201041-CS3140
+	url = git@github.com:aman112201041/112201041-CS3140.git
+[submodule "112201003-CS3140"]
+	path = 112201003-CS3140
+	url = git@github.com:Gouthami4/112201003-CS3140.git
+[submodule "112201002-CS3140"]
+	path = 112201002-CS3140
+	url = git@github.com:klr2411/112201002-CS3140.git
+[submodule "112201004-CS3140"]
+	path = 112201004-CS3140
+	url = git@github.com:PranithaMuluguru/112201004-CS3140.git
+[submodule "112201038-CS3140"]
+	path = 112201038-CS3140
+	url = git@github.com:shreyasonly/112201038-CS3140.git
+[submodule "112201032-CS3140"]
+	path = 112201032-CS3140
+	url = git@github.com:Shubham04567/112201032-CS3140.git
+[submodule "112101052-CS3140"]
+	path = 112101052-CS3140
+	url = git@github.com:Sachin-644/112101052-CS3140.git
